@@ -18,17 +18,17 @@ Scopul temei era reproducerea comportamentul unei stații reale, unde:
 * 2x Butoane - pentru pornirea sau oprirea forțată a stației de încărcare;
 * 7x Rezistoare 330Ω - pentru cele 4 LED-uri albastre și pentru LED-ul RBG;
 * 2x Rezistoare 1KΩ - pentru cele 2 butoane;
-* 1x Breadboard
-* 14x Linii de legătură
+* 1x Breadboard;
+* 14x Linii de legătură;
 
-## Montajul fizic:
+## Montajul fizic
 [Montaj](<photos/IMG_7746.PNG>)
 [Montaj_closeup](<photos/IMG_7747.PNG>)
 [Montaj_lateral1](<photos/IMG_7748.PNG>)
 [Montaj_lateral2](<photos/IMG_7749.PNG>)
 
-## Schema electrică:
+## Schema electrică
 ![Schema electrică - Tema 1](<photos/tema 1 poza.png>)
 
-## Video cu funcționalitatea montajului fizic:
+## Video cu funcționalitatea montajului fizic
 [Video](https://youtu.be/7g0XaMN5Gg0)
