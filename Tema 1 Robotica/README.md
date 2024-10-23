@@ -22,11 +22,11 @@ Scopul temei era reproducerea comportamentul unei stații reale, unde:
 * 14x Linii de legătură
 
 ## Montajul fizic:
-[Montaj1](<IMG_7742.HEIC>)
-[Montaj2](<IMG_7744.HEIC>)
-[Montaj3](<IMG_7740.HEIC>)
+[Montaj1](<photos/IMG_7742.HEIC>)
+[Montaj2](<photos/IMG_7744.HEIC>)
+[Montaj3](<photos/IMG_7740.HEIC>)
 ## Schema electrică:
-![Schema electrică - Tema 1](<tema 1 poza.png>)
+![Schema electrică - Tema 1](<photos/tema 1 poza.png>)
 
 ## Video cu funcționalitatea montajului fizic:
 [Video](https://youtu.be/7g0XaMN5Gg0)
