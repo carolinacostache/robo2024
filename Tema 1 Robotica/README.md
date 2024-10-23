@@ -31,4 +31,4 @@ Scopul temei era reproducerea comportamentul unei stații reale, unde:
 ![Schema electrică - Tema 1](<photos/tema 1 poza.png>)
 
 ## Video cu funcționalitatea montajului fizic
-![Video](https://youtu.be/7g0XaMN5Gg0)
+[Video](https://youtu.be/7g0XaMN5Gg0)
