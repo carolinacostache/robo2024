@@ -28,6 +28,7 @@ The purpose of this project was to replicate some basic game-like mechanisms:
 
 ## Wokwi Implementation
 ![Simulation](<photos/schema electrica tema 2.png>)
+
 [Simulation](https://wokwi.com/projects/413031030234506241)
 
 ## Physical Implementation
