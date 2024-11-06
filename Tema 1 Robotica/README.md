@@ -17,18 +17,19 @@ The purpose of the project was to replicate the behavior of a real charging stat
 * 1x RGB LED - shows the state of the charging station
 * 2x Buttons - for starting and stopping the charging process
 * 7x 330Ω rezistors - for the LEDs
-* 2x 1KΩ rezistors - for the twon buttons
+* 2x 1KΩ rezistors - for the two buttons
 * 1x Arduino Uno (ATmega328P microcontroller)
 * 1x Breadboard
 * 14x Colorful wires
 
 ## TinkerCAD Implementation
-![Simulation](<tema 1 poza.png>)
+![Simulation](<photos/tema 1 poza.png>)
 
 ## Physical Implementation
-![Montaj1](<IMG_7742.HEIC>)
-![Montaj2](<IMG_7744.HEIC>)
-![Montaj3](<IMG_7740.HEIC>)
+![Picture1](photos/IMG_7746.PNG)
+![Picture2](photos/IMG_7747.PNG)
+![Picture3](photos/IMG_7748.PNG)
+![Picture4](photos/IMG_7749.PNG)
 
 ## Video
 [Video](https://youtu.be/7g0XaMN5Gg0)
