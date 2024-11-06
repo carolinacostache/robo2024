@@ -1,7 +1,7 @@
 # Introduction to Robotics Course
 
 ##  This repo will contain all materials I used this semester.
-## Each hoemwork-project has its dedicated folder.
+## Each homework-project has its dedicated folder.
 
 # Summary
 
