@@ -38,7 +38,7 @@ void loop() {
         }
 
         case ROUND_COUNTDOWN:
-            // Start LED animation or countdown (if needed)
+        
             break;
 
         default:
